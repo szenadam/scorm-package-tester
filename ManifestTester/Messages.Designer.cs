@@ -70,6 +70,15 @@ namespace ManifestTester {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Root element in manifest file is invalid..
+        /// </summary>
+        internal static string ManifestCheck_0 {
+            get {
+                return ResourceManager.GetString("ManifestCheck.0", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Not enough arguments..
         /// </summary>
         internal static string NotEnoughArguments {

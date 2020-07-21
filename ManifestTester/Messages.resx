@@ -24,4 +24,7 @@
     <data name="NotEnoughArguments" xml:space="preserve">
         <value>Not enough arguments.</value>
     </data>
+    <data name="ManifestCheck.0" xml:space="preserve">
+        <value>Root element in manifest file is invalid.</value>
+    </data>
 </root>

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManifestTester", "ManifestTester\ManifestTester.csproj", "{64CD5A03-7840-42DE-8FBE-C1B18ED86D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManifestTester.Tests", "ManifestTester.Tests\ManifestTester.Tests.csproj", "{6F326BEF-21E2-47D3-880C-84299ABEA029}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutuionFiles", "SolutuionFiles", "{A85BB0B9-75D6-4354-B70C-E7177F4160C1}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+	README.md = README.md
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64CD5A03-7840-42DE-8FBE-C1B18ED86D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CD5A03-7840-42DE-8FBE-C1B18ED86D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CD5A03-7840-42DE-8FBE-C1B18ED86D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CD5A03-7840-42DE-8FBE-C1B18ED86D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F326BEF-21E2-47D3-880C-84299ABEA029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F326BEF-21E2-47D3-880C-84299ABEA029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F326BEF-21E2-47D3-880C-84299ABEA029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F326BEF-21E2-47D3-880C-84299ABEA029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

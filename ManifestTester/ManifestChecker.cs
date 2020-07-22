@@ -26,8 +26,4 @@ namespace ManifestTester
             }
         }
     }
-    public class Result
-    {
-        public bool Passed { get; set; }
-    }
 }

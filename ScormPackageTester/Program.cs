@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace ManifestTester
+namespace ScormPackageTester
 {
     class Program
     {

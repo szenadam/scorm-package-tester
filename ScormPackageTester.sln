@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManifestTester", "ManifestTester\ManifestTester.csproj", "{64CD5A03-7840-42DE-8FBE-C1B18ED86D03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScormPackageTester", "ScormPackageTester\ScormPackageTester.csproj", "{64CD5A03-7840-42DE-8FBE-C1B18ED86D03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManifestTester.Tests", "ManifestTester.Tests\ManifestTester.Tests.csproj", "{6F326BEF-21E2-47D3-880C-84299ABEA029}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScormPackageTester.Tests", "ScormPackageTester.Tests\ScormPackageTester.Tests.csproj", "{6F326BEF-21E2-47D3-880C-84299ABEA029}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutuionFiles", "SolutuionFiles", "{A85BB0B9-75D6-4354-B70C-E7177F4160C1}"
 ProjectSection(SolutionItems) = preProject

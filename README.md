@@ -1,1 +1,3 @@
-﻿# IMSManifest Tester
+﻿# SCORM Package Tester
+
+Check a SCORM package for validity.

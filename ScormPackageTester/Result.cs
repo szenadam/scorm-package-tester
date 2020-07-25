@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace ManifestTester
+namespace ScormPackageTester
 {
     /// <summary>
     /// Represents a result of a check.

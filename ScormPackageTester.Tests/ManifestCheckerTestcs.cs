@@ -1,8 +1,6 @@
-﻿using System.Linq;
-using System.Xml;
-using Microsoft.VisualStudio.TestPlatform.CommunicationUtilities;
+﻿using System.Xml;
+using ScormPackageTester;
 using Xunit;
-using Xunit.Sdk;
 
 namespace ManifestTester.Tests
 {
